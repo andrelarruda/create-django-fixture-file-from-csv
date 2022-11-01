@@ -15,5 +15,5 @@ I decided to follow this approach based on the Django docs (https://docs.djangop
 9. That's it! The JSON file was created in the root directory
 
 ## *Base packages versions*
-Python 3.9.13
-Pip: 22.2.2
+- Python 3.9.13
+- Pip: 22.2.2
